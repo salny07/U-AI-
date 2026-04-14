@@ -1,0 +1,8 @@
+使用需要python环境，谷歌浏览器，pip安装以下库
+pip install selenium webdriver-manager datetime
+以上代码直接输入cmd
+然后挂好梯子（最好挂美国的）运行程序u.py
+第一次运行完之后不挂梯子重新运行u.py
+登录u校园然后到要挂机的位置输入ok开始挂机
+使用u.py挂机程序！！！
+用户名进c盘找一下，不知道是什么的上网搜
